@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <p style={{color: "yellow"}}>текст</p>
+      <p style={{color: "black"}}>текст</p>
     </div>
   );
 }
